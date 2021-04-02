@@ -12,7 +12,7 @@
 
 .promo {
     height: 800px;
-    background: url('../img/mainPage.jpg') center center/cover no-repeat;
+    background: url('../assets/img/mainPage.jpg') center center/cover no-repeat;
     padding: 39px 0 62px 0;
 }
 
@@ -172,5 +172,5 @@ h2.title {
     font-size: 15px;
     font-weight: 300;
     line-height: 21px;
-    
+
 }
